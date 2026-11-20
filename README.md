@@ -19,3 +19,4 @@ los datos de entrada son el Nombre del cliente, la fecha del pedido, la condici√
 # Datos de salida
 La lista de productos agregados al pedido, la cantidad de cada productos, el precio unitario de cada producto, el total por cada producto, el subtotal de la compra, el descuento aplicado, el costo de empaque, el ITBIS del 18 % y el total general a pagar.
 # Captura de la interfaz en ejecucion
+![](https://github.com/yr2024-1104/Examen_Cafeter-a_Yosemi/blob/main/WhatsApp%20Image%202026-11-19%20at%208.18.17%20PM%20(1).jpeg)
